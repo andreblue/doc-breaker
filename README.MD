@@ -7,6 +7,9 @@ It uses [msoffcrypto-tool](https://github.com/nolze/msoffcrypto-tool) and uses [
 
 The 10000 password list will download if it can not find it. Thus no setup is needed for that.
 
+## Disclaimer
+This is made for educational purposes or for documents that you created and have forgotten the password. I take no responsablity for any misdeeds this is used for.
+
 ## Requirements
 
 ##### Python 3
